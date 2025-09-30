@@ -1,5 +1,13 @@
 venv
+
+# Virtual environment
+.venv/
+
+# Environment variables
 .env
+
+# Large pickled files
 similarity.pkl
 movies_dict.pkl
 movies.pkl
+
